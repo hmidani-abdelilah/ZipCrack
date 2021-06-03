@@ -17,6 +17,8 @@ Modules
     pip3 install socket
     pip3 install colorama
     pip3 install zipfile
+    pip3 install termcolor
+    pip3 install tqdm
     
 Installation
 ----
